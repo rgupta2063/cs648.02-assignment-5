@@ -1,2 +1,2 @@
-# cs648.02-assignment-5
- Graphql with router
+# cs648.02-assignment-4
+ Mern-Stack on Product Inventory with mongodb
