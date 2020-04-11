@@ -1,2 +1,2 @@
-# cs648.02-assignment-4
- Mern-Stack on Product Inventory with mongodb
+# cs648.02-assignment-5
+ CRUD operations on Product Inventory along with mongodb, Graphql, Router
