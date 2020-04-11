@@ -18,11 +18,7 @@ export default class ProductImage extends React.Component {
       }
     }`;
 
-    const {
-      match: {
-        params: { id },
-      },
-    } = this.props;
+    const { match: { params: { id } } } = this.props;
 
     const data = await graphQLFetch(query, { id });
     if (data) {
